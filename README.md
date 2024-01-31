@@ -9,8 +9,8 @@
 ## 기한
 * 2024/1/14~
 ## 본 프로젝트 사용 기술 및 환경
-lan:
-os,tool: Windows os,mac os,Unity,VScode,Visual studio for mac 
+* lan:
+* os,tool: Windows os,mac os,Unity,VScode,Visual studio for mac 
 ## 주요 기능 목차
 
 ****

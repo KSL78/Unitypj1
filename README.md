@@ -10,7 +10,7 @@
 * 2024/2~
 ## 본 프로젝트 사용 기술 및 환경
 * lan:
-* os,tool: Windows os,VScode,Visual
+* os,tool: Windows os,VScode,XAMPP
 ## 주요 기능 목차
 
 ****

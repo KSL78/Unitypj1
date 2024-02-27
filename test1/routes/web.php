@@ -20,7 +20,3 @@ Route::get('/', function () {
 
 Route::get('/home/{name?}',[HomeController::class,'index'])->name('home.index');
 
-//model = 데이터
-//controller = 사용자? 
-//view = 표시부?
-//? or null 들어가면 넣지 않아도 출력 가능 

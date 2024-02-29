@@ -10,8 +10,10 @@
 ## 본 프로젝트 사용 기술 및 환경
 * lan:php(laravel)
 * os,tool: Windows os,VScode,XAMPP,Mac os,Composer
-## 주요 기능 목차
-
+## 파일 목차
+* test1: mainpc(windows 11)
+* test2(예정):mac
+* bk: 필기본
 ****
 
 ## 차후 계획

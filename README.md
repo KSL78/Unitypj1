@@ -1,4 +1,4 @@
-# laravel 공부용
+# laravel 공부용/W11
 ## 프로젝트 개요
 * laravel 학습
 ## 제작 목적 및 크드 참고
@@ -9,10 +9,9 @@
 * 2024/2~
 ## 본 프로젝트 사용 기술 및 환경
 * lan:php(laravel)
-* os,tool: Windows os,VScode,XAMPP,Mac os,Composer
+* os,tool: Windows os,VScode,XAMPP,Composer
 ## 파일 목차
 * test1: mainpc(windows 11)
-* test2(예정):mac
 * bk: 필기본
 ****
 

@@ -1,4 +1,4 @@
-# laravel 공부용/W11
+# laravel 공부용
 ## 프로젝트 개요
 * laravel 학습
 ## 제작 목적 및 크드 참고

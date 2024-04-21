@@ -1,4 +1,6 @@
-//model = 데이터
-//controller = 사용자? 
-//view = 표시부?
+//model = 데이터 sql
+//controller = 사용자? php 코딩
+//view = 표시부? css
 //? or null 들어가면 넣지 않아도 출력 가능 
+test1: mainpc 11
+test2: mxlap 10

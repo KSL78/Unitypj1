@@ -12,6 +12,7 @@
 * os,tool: Windows os,VScode,XAMPP,Composer
 ## 파일 목차
 * test1: mainpc(windows 11)
+* test2: subpc(windows 10)
 * bk: 필기본
 ****
 

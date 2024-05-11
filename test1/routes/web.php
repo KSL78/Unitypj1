@@ -2,9 +2,11 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomeController;
-Route::get('/', function () {
-    return view('welcome');
-});
+use App\Http\Controllers\ProductController;
+// Route::get('/', function () {
+//     return view('welcome');
+// });
+Route::get('/',[ProductController::class,'index'])->name('product.index');
 
 // Route::get('/users/{name?}', function ($name = NULL) {
 //     return 'welcome, '. $name;
@@ -19,8 +21,12 @@ Route::get('/home/{name?}', [HomeController::class,'index'])->name('home.index')
 // laravel 8 이상부터 namespace대신 use씀
 
 Route::get('/user/{name?}', function ($name = NULL) {
-    return view('user',compact('name')); // $name -> 'name'
+    $age = 10;
+    return view('user',compact('name','age')); // $name -> 'name'
 });
 Route ::get('/test1',function(){
     return view('test1', ['name' => '<script>alert("1");</script>']);
 });
+
+
+

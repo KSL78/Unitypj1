@@ -8,6 +8,6 @@ class HomeController extends Controller
 {
     public function index($name = null): string
     {
-        return 'hello H.C wtyn?'. $name;
+        return 'hello: '.$name;
     }
 }
